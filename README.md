@@ -1,0 +1,2 @@
+# Customer-Segmentation
+In this project I performed grouping customers according to various characteristics It’s a way for organizations to understand their customers.I applied K-means clustering algorithm to identify patterns in customer data.Utilized python for data manipulation, model training, and visualization using libraries like pandas, NumPy, and plotly, facilitating effective analysis and presentation of clustering results.
